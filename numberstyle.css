@@ -1,0 +1,14 @@
+
+.number{
+    padding: 50px;
+    width: 40%;
+    float: left;
+    border: 1px solid black;
+    margin: 5px;
+}
+.print{
+    width: 100%;
+    border: 1px solid black;
+    height: 50px;
+    overflow: hidden;
+}
